@@ -1,4 +1,4 @@
-[![Bintray](https://img.shields.io/bintray/v/zyl/maven/android-zxing-utils.svg)](https://bintray.com/zyl/maven/android-zxing-utils/_latestVersion)
+[![Bintray](https://api.bintray.com/packages/zyl/maven/android-zxing-utils/images/download.svg)](https://bintray.com/zyl/maven/android-zxing-utils/_latestVersion)
 # android-zxing-utils
 利用[ZXing](https://github.com/zxing/zxing)中的QRCodeWriter类获得BitMatrix来一个个检查颜色，重新获得构建一个像素矩阵获取一个全新的bitmap对象来表现二维码。参考[Android 生成带logo的二维码](http://www.jianshu.com/p/9a1387840cd6)
 
